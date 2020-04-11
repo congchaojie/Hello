@@ -1,2 +1,1 @@
-# Hello
-第一个程序
+sys_hello
